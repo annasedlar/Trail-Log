@@ -13,3 +13,17 @@ img{
 	text-align:center;
 	margin:auto;
 }
+
+.bg{
+	background-image: url("images/IMG_3940.JPG");
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-position:center; 
+}
+.jumbotron {
+  margin-bottom: 0px;
+  height: 350px;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+  background:transparent;
+}
